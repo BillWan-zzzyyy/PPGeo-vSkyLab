@@ -22,7 +22,7 @@
 
 ## Get Started
 
-- Put files in the assigned location.
+- **Put files in the assigned locations:**
   - Ckpt_with_Nuscenes (```best_epoch=04-val_loss_l2=3.128.ckpt```) into ```log/exp_stage/```
   - Ckpt_with_MadisonData (```best_epoch=37-val_loss_l2=0.038.ckpt```) into ```log/ppgeo100702/```
 
