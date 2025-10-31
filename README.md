@@ -1,6 +1,6 @@
 # 🔥PPGeo with Vehicle Test by Sky-Lab
 > [!NOTE]
-> **🙏Acknowledgement: This work is based on the PPGeo by [Opendrivelab](https://opendrivelab.com/#news).**
+> **🙏Acknowledgement: This work is based on the PPGeo (PPGeo: Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling) by [Opendrivelab](https://opendrivelab.com/#news).**
 
 ## Pre-trained Models
 
