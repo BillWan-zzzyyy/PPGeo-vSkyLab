@@ -2,7 +2,7 @@
 > [!NOTE]
 > **🙏Acknowledgement: This work is based on the PPGeo (Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling) by [Opendrivelab](https://opendrivelab.com/#news).**
 
-## 💾 Download Pre-trained Model and Img
+## 💾 Download Pre-trained Model and Image
 | File | Google Drive Link | 
 |:--------------:|:--------:|
 | Ckpt_with_Nuscenes | [ckpt](https://drive.google.com/file/d/1TXVZeLg6hE28cFmUydzKVQ97zQ5os4wy/view?usp=sharing) | 
