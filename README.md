@@ -1,6 +1,11 @@
 # 🔥 PPGeo with Vehicle Test by Sky-Lab
 > [!NOTE]
-> **🙏Acknowledgement: This work is based on the PPGeo (Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling) by [Opendrivelab](https://opendrivelab.com/#news).**
+> **🙏 Acknowledgment: This work is based on the PPGeo (Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling) by [Opendrivelab](https://opendrivelab.com/#news).**
+
+
+> [!IMPORTANT]
+> **🎯 You need to  build the PPGeo environment first by following instructions in [PPGeo](https://github.com/OpenDriveLab/PPGeo)**
+> **If you are on Windows, you can use ```environment_win.yml``` in this repositery**
 
 ## 💾 Download Pre-trained Model and Image
 | File | Google Drive Link | 
