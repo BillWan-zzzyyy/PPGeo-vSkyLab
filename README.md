@@ -20,12 +20,18 @@
 | IMG_4 | [img](https://drive.google.com/drive/folders/1ZX381DX8kpQMbpu4sB6lo8OwfRZ7AHUH?usp=sharing) |
 
 
-## Get Started
+## 🚀Get Started
 
-- **Put files in the assigned locations:**
+- **1. Put files in the assigned locations:**
   - Ckpt_with_Nuscenes (```best_epoch=04-val_loss_l2=3.128.ckpt```) into ```../nuscenes_planning/log/exp_stage/```
   - Ckpt_with_MadisonData (```best_epoch=37-val_loss_l2=0.038.ckpt```) into ```../nuscenes_planning/log/ppgeo100702/```
   - IMG_1~4 (```img_madison_1~4```) into ```../nuscenes_planning```
+
+- **2. Run ```main.py```:**
+```
+cd nuscenes_planning
+python main.py
+```
 
 
 <div align="center"> 
