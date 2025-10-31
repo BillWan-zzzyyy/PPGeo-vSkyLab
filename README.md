@@ -1,4 +1,6 @@
 # 🔥PPGeo with Vehicle Test by Sky-Lab
+> [!NOTE]
+> 🙏Acknowledgement: This work is based on the PPGeo by [Opendrivelab](https://opendrivelab.com/#news).
 
 ## Pre-trained Models
 
