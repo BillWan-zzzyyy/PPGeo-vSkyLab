@@ -25,7 +25,7 @@
 - **Put files in the assigned locations:**
   - Ckpt_with_Nuscenes (```best_epoch=04-val_loss_l2=3.128.ckpt```) into ```../nuscenes_planning/log/exp_stage/```
   - Ckpt_with_MadisonData (```best_epoch=37-val_loss_l2=0.038.ckpt```) into ```../nuscenes_planning/log/ppgeo100702/```
-  - IMG_1~4 (```img_madison_1~4) into ```../nuscenes_planning```
+  - IMG_1~4 (```img_madison_1~4```) into ```../nuscenes_planning```
 
 
 <div align="center"> 
