@@ -33,7 +33,6 @@ cd nuscenes_planning
 python main.py
 ```
 
-
 <div align="center"> 
   
 ## 🎯The following are the original contents of PPGeo
