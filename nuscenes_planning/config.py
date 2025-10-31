@@ -9,12 +9,12 @@ from pathlib import Path
 
 # -------- Modes --------
 OFFLINE_MODE: bool = True # set to False in online vehicle test
-OFFLINE_IMAGE_DIR: str = "img_madison10"
+OFFLINE_IMAGE_DIR: str = "img_madison_1"
 AUTO_EXIT_WHEN_DONE: bool = True
 
 # -------- Model/Calib --------
 CKPT: str = "log/ppgeo100702/best_epoch=37-val_loss_l2=0.038.ckpt"  # use different ckpt under different scenarios
-CALIB_PATH: str = "data/0923set_1_can_bus_madison.json"  # use different calibration file under different camera position
+CALIB_PATH: str = "data/0923set_4_can_bus_madison.json"  # use different calibration file under different camera position
 DEVICE: str = "cuda:0" if torch.cuda.is_available() else "cpu"
 
 # -------- Sender / dynamics --------
@@ -91,3 +91,4 @@ MARGIN_PX: int = 40
 
 # -------- Paths --------
 SCRIPT_DIR: Path = Path(__file__).resolve().parent
+
