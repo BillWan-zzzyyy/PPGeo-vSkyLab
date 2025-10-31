@@ -29,6 +29,7 @@
 
 - **2. Run ```main.py```:**
 ```
+conda activate PPGeo
 cd nuscenes_planning
 python main.py
 ```
